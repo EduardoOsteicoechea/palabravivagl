@@ -1,0 +1,141 @@
+{
+   "DocumentTitle": "Creencias",
+   "DocumentCompositionPrinciples": [
+      "El orden en que mostraremos estas creencias es fundamental. Cada creencia soporta al menos un aspecto de las siguientes."
+   ],
+   "BeliefsCategories": [
+      "Llamamiento",
+      "Fundamentos",
+      "Tradiciones Históricas",
+      "Preeminencias",
+      "Eclesiología",
+      "Secundidades",
+      "Tradiciones Extrabíblicas"
+   ],
+
+
+   "Beliefs": [
+      {
+         "Title": "Llamamiento perceptible",
+         "Category": "Llamamiento",
+         "Subcategory": "Convicción",
+         "Synthesis": "Creemos que el Espíritu Santo obró de tal manera en nuestra vida, que nos ha convencido de que Dios nos llamaba al arrepentimiento, perdón de pecados, y adopción como pueblo de escogido, por medio de Jesucristo.",
+         "BiblicalReferences": [
+            "juan.6.43-35",
+            "hechos.2.37-39"
+         ]
+      },
+      {
+         "Title": "Llamamiento para convicción de pecados",
+         "Category": "Llamamiento",
+         "Subcategory": "Convicción",
+         "Synthesis": "Creemos que el Espíritu Santo nos ha convencido, de la magnitud de nuestros pecados ante la santidad de Dios, de manera que reconocímos que éramos dignos del tormento eterno del infierno.",
+         "BiblicalReferences": [
+            "lucas.13.1-5",
+            "romanos.3.9-18"
+         ]
+      },
+      {
+         "Title": "Llamamiento para salvación",
+         "Category": "Llamamiento",
+         "Subcategory": "Convicción",
+         "Synthesis": "Creemos que el Espíritu Santo nos ha convencido, de que el Padre envió a Su Hijo, para que viviera, muriera, resucitara y recibiera el Sacerdocio eterno, para salvarnos de Su ira.",
+         "BiblicalReferences": [
+            "colosenses.1.13-20",
+            "1.corintios.15.23-28"
+         ]
+      },
+      {
+         "Title": "Llamamiento para fe y obras",
+         "Category": "Llamamiento",
+         "Subcategory": "Convicción",
+         "Synthesis": "Creemos que el Espíritu Santo nos ha convencido, de que podíamos recibir esta salvación, al creer este evangelio, abandonar nuestra vida centrada en deseos pecaminosos, atesorar a Cristo como Salvador, y someternos a Su palabra.",
+         "BiblicalReferences": [
+            "romanos.3.9",
+            "juan.8.31-32",
+            "santiago.2.14-26",
+            "lucas.14.25.35",
+            "colosenses.1.21-23"
+         ]
+      },
+      {
+         "Title": "Llamamiento evangélico",
+         "Category": "Llamamiento",
+         "Subcategory": "Doctrina básica",
+         "Synthesis": "Creemos que fuimos llamados para esta salvación por medio de la predicación del evangelio.",
+         "BiblicalReferences": [
+            "2.pedro.1.19-21",
+            "mateo.5.17-20",
+            "2.timoteo.3.14-4.2"
+         ]
+      },
+
+      {
+         "Title": "Llamamiento palpable",
+         "Category": "Llamamiento",
+         "Subcategory": "Experiencia",
+         "Synthesis": "Creemos que podemos palpar nuestra relación de paz con Dios por medio de Jesucristo, gracias a la confirmación del Espíritu y providencia, a partir de nuestro arrepentimiento y fe en el evangelio.",
+         "BiblicalReferences": [
+            "romanos.8.16",
+            "romanos.5.1-2,10",
+            "colosenses.1.21-22"
+         ]
+      },
+      {
+         "Title": "Llamamiento para esta confesión",
+         "Category": "Llamamiento",
+         "Subcategory": "Experiencia",
+         "Synthesis": "Creemos esta confirmación y llamamiento, posibilita vivir y confesar estas creencias.",
+         "BiblicalReferences": [
+            "romanos.8.16",
+            "juan.14.15-18,25-26"
+         ]
+      },
+
+      {
+         "Title": "Llamamiento a las Escrituras",
+         "Category": "Llamamiento",
+         "Subcategory": "Doctrina básica",
+         "Synthesis": "Creemos que el Espíritu Santo nos ha convencido, de que Dios desea gobernarnos por medio de Su palabra escrita, que es la Biblia protestante, identificada gracias al consenso cristiano de todas las generaciones.",
+         "BiblicalReferences": [
+            "2.pedro.1.19-21",
+            "mateo.5.17-20",
+            "2.timoteo.3.14-4.2"
+         ]
+      },
+
+      {
+         "Title": "Llamamiento distintivo",
+         "Category": "Llamamiento",
+         "Subcategory": "Doctrina fundamental",
+         "Synthesis": "Creemos que creímos el evangelio, gracias a una obra de convición especial del Espíritu Santo, basada en la elección soberana de Dios, que no es experimentada por el resto de las personas.",
+         "BiblicalReferences": [
+            "2.pedro.1.19-21",
+            "mateo.5.17-20",
+            "2.timoteo.3.14-4.2"
+         ]
+      },
+      {
+         "Title": "Llamamiento misterioso",
+         "Category": "Llamamiento",
+         "Subcategory": "Doctrina fundamental",
+         "Synthesis": "Creemos recibimos este llamamiento distintivo, únicamente por el misterio de la voluntad de Dios, que nos amó y escogió como pueblo para Su Hijo, sin considerar nuestras obras, fe o motivaciones hipotéticas.",
+         "BiblicalReferences": [
+            "2.pedro.1.19-21",
+            "mateo.5.17-20",
+            "2.timoteo.3.14-4.2"
+         ]
+      },
+      {
+         "Title": "Llamamiento humilde",
+         "Category": "Llamamiento",
+         "Subcategory": "Doctrina fundamental",
+         "Synthesis": "Creemos que Dios escogió lo vil y menospreciado del mundo para humillar la arrogancia de los incrédulos.",
+         "BiblicalReferences": [
+            "2.pedro.1.19-21",
+            "mateo.5.17-20",
+            "2.timoteo.3.14-4.2"
+         ]
+      }
+   ]
+}
