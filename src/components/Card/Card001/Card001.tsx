@@ -1,3 +1,4 @@
+import ReferenceViewer001 from "../../ReferenceViewer/ReferenceViewer001/ReferenceViewer001";
 import "./Card001.css";
 
 interface Belief
@@ -11,16 +12,17 @@ interface Belief
 
 interface BeliefProps {
   belief: Belief;
-  key: number;
+
 }
 
-export default function ({ belief, key}: BeliefProps, )
+export default function ({ belief}: BeliefProps, )
 {
    return (
-      <div className="Card001-OuterContainer" key={key}>
+      <div className="Card001-OuterContainer">
          <h3 className="Card001-Heading">{belief.Title}</h3>
          <p className="Card001-Paragraph">{belief.Synthesis}</p>
-         <p className="Card001-BiblicalReferences">{belief.BiblicalReferences.join(', ')}</p>
+         <ReferenceViewer001 reference={{covenant:"newTestament",book:"1Timothy"}}/>
+         {/* <p className="Card001-BiblicalReferences">{belief.BiblicalReferences.join(', ')}</p> */}
       </div>
    );
 };
